@@ -1,4 +1,4 @@
-## This function caches 
+# This function stores a matrix and caches its inverse
 
 makeCacheMatrix <- function(mat = matrix()) {
     # reset the matrix and inverse
